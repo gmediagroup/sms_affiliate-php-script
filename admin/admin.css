@@ -1,0 +1,40 @@
+.footer{margin:40px 0px 0px 0px;padding:5px;font-size:12px;border:1px solid #ccc;}
+.footer a {color:#000000;font-weight:bold;text-decoration: none;color: #000099;}
+.table1 {border:1px solid #BDC7E8;}
+.n1 {font-size:13pt;padding:4px;margin:0px;}
+dl {border-left:1px solid #ccc;padding:0;margin:0 0 50px 0;}
+dt {padding:0px;font-size:12px;margin:0 0 10px 5px;}
+dl a {color:#000000;font-weight:bold;}
+dl h1 {padding:0;margin:0;font-size:13pt;}
+#page .header2 {background-color: #D8E9FE;}
+#page h2 {padding:0px;margin:0 0 10px 0;font-size:13pt;}
+#page { }
+#page a {color:#0F1286;padding: 2px;font-size: 12px;}
+#page td {border:1px solid #9DACC6;padding:4px;}
+body {font:12px Tahoma,Arial; color: #000000;margin:10px; background:#FFF}
+img {margin:0px;padding: 0px;border: 0px;}
+h3{font: 18px arial; color: #333 }
+input {font: 11px arial;}
+input.vvod {font: 11px arial;}
+input.vvod1 {font: 11px arial;}
+select {font: 11px arial; }
+.button {border : solid 1px #cccccc;background: #E9ECEF;color : #666666;font-weight : bold;font-size : 11px;padding: 4px;}
+.login {margin-left: auto;margin-right: auto;margin-top: 6em;padding: 15px;border: 1px solid #cccccc;width: 429px;background: #F1F3F5;}
+.login h1 {background: url(../images/login_header.png) no-repeat;background-position: left top;color: #333;margin: 0px;height: 50px;padding: 15px 4px 0 50px;text-align: left;font-size: 1.5em;}
+.login p {padding: 0 1em 0 1em;}
+.form-block {border: 1px solid #cccccc;background: #E9ECEF;padding-top: 15px;padding-left: 10px;padding-bottom: 10px;padding-right: 10px;}
+.login-form {text-align: left;float: right;width: 60%;}
+.login-text {text-align: left;width: 40%;float: left;}
+.inputlabel {font-weight: bold;text-align: left;}
+.inputbox {width: 150px;margin: 0 0 1em 0;border: 1px solid #cccccc;}
+.clr {clear:both;}
+.ctr {text-align: center;}
+dl h1 {padding:0 0 5px 0px;margin:0 0 0px 0;font-size: 14pt;border-bottom-width: 2px;border-bottom-style: solid;border-bottom-color: #3273A3;}
+dl {background-color: #EAF2FB;padding: 3px 10px 10px 0;margin-top: 0px;margin-right: 20px;margin-bottom: 5px;border: 1px solid #A3B4D3;}
+form {background-color: #EFF4FA;border:1px solid #A3AFC7;padding:8px;margin:5px;}
+form .f1{font-size:10pt;padding:2px;border:1px solid #70789E;}
+form .f2{font-size:9pt;border:2px solid #70789E;background-color:#E6F0FB;font-weight:bold;padding:2px;}
+dt {margin:0px 0;padding-top: 4px;padding-right: 2px;padding-bottom: 4px;padding-left:5px;}
+dl a {text-decoration: none;margin: 0px;padding: 0px;}
+#page .header1 {background-color: #D0E0F0;}
+.e {color: #9F0436;background-color: #FFF2F2;padding: 4px;border: 1px solid #D1BABA;}

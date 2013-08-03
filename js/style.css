@@ -1,0 +1,39 @@
+.select_country{
+	width:115px;
+	font-size:12px;
+	color:#000000;
+	height:250px;
+	border:1 solid #77A6F2;
+	font-family: Tahoma;
+}
+.select_oper{
+	width:260px;
+	font-size:12px;
+	color:#000000;
+	height:250px;
+	border:1 solid #5F8EDE;
+	font-family: Tahoma;
+}
+.select_number{
+	width:100px;
+	font-size:14px;
+	color:#000000;
+	height:250px;
+	border:1 solid #3C77BF;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.select_cost{
+	width:80px;
+	font-size:14px;
+	color:#000000;
+	height:250px;
+	border:1 solid #74B8DC;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.select_table {
+	font-family: Tahoma, Arial;
+	color: #000000;
+	border: 1px solid #8FD0FC;
+}
